@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sdf5771" alt="sdf5771" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, React js, React Native, C#.Net, Python, VB.Net, VB 6.0**
+- 🌱 I’m currently learning **JavaScript, React js, TypeScript, React Native, C#.Net, Python, VB.Net, VB 6.0**
 
 - 📫 How to reach me **seobisback@gmail.com**
 
