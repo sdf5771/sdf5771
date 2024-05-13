@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm SeobwooKim</h1>
-<h3 align="center">I'm Developer & IT R&D Headquarters Researcher from Republic of Korea</h3>
+<h3 align="center">I'm Front-end Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sdf5771" alt="sdf5771" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, React js, TypeScript, React Native, C#.Net, Python, VB.Net, VB 6.0**
+- 🌱 I’m currently learning **JavaScript, React js, TypeScript, React Native, Python**
 
 - 📫 How to reach me **seobisback@gmail.com**
 
