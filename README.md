@@ -60,4 +60,5 @@
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sdf5771&show_icons=true&theme=tokyonight&locale=en" alt="sdf5771" /></p> </div> 
     </div>
-    
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sdf5771&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
